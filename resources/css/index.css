@@ -8,7 +8,7 @@
     font-weight: bold;
     color: khaki;
     text-align: center;
-    background-image: url("C:\Users\kaido\OneDrive\Documents\Programming Projects\HTML projects\Dasmoto's Arts and Crafts\resources\pattern.jpeg");
+    background-image: url("./resources/pattern.jpeg");
     background-repeat: no-repeat;
     /* background image issue */
 }
