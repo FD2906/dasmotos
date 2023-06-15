@@ -1,0 +1,41 @@
+/* need a star rule for font family: helvetica */
+* {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#page-title {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("C:\Users\kaido\OneDrive\Documents\Programming Projects\HTML projects\Dasmoto's Arts and Crafts\resources\pattern.jpeg");
+    background-repeat: no-repeat;
+    /* background image issue */
+}
+
+.section-headers {
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+}
+
+#brushes-title {
+    background-color: mediumspringgreen;
+}
+
+#frames-title {
+    background: lightcoral;
+}
+
+#paint-title {
+    background-color: skyblue;
+}
+
+.bold-captions {
+    font-weight: bold;
+}
+
+.pricing {
+    font-weight: bold;
+    color: blue;
+}
