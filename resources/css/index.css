@@ -8,8 +8,7 @@
     font-weight: bold;
     color: khaki;
     text-align: center;
-    background-image: url("./resources/pattern.jpeg");
-    background-repeat: no-repeat;
+    background-image: url("../pattern.jpeg");
     /* background image issue */
 }
 
